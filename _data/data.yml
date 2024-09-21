@@ -96,7 +96,6 @@ experiences:
           - Qt 5.15 avec QML.
           - Autre libs: gRPC, Boost, sqlite, dcmtk.
           - Intégration Continue et gestion de versioning avec Gitlab.
-    info:
       - role: SW Engineer
         time: 2019 - 2021
         company: Cardiawave, Levallois-Perret
@@ -111,7 +110,6 @@ experiences:
           Participation allant de la définition du besoin jusqu'à l'implémentation et écriture des tests unitaires.
           Rédaction de l'ensemble de la documentation technique: Spécifications Systèmes, Spécifications logicielles, Conception détaillée.
           IEC 62304, IEC 62366, ISO 13485.
-    info:
       - role: Consultant Ingénieur Logiciel
         time: 2017 - 2019
         company: ECA Robotics, Saclay
@@ -119,7 +117,6 @@ experiences:
           Assistance technique Altim SA en développement logiciel C++11 / Qt 5.10.
           Développement d'un système complet de supervision pour robot autonome d'intervention dans une usine d aluminium. Le système se compose : d'un client graphique (QT), d'un serveur, d'un éditeur de carte (QT) et d un logiciel de suivie de maintenance (QT).
           Communication en TCP et liaison avec base de données MS SQL.
-    info:
       - role: Consultant Ingénieur logiciel d'application médicale
         time: 2016 - 2017
         company: General Electric Healthcare, Buc
@@ -128,7 +125,6 @@ experiences:
           Travaux (maintenance et nouvelles fonctionnalités) principalement réalisés sur la partie visualisation des images Xray et outils en QT.
           Développement Agile/Scrum en appliquant la méthode TDD.
           Rédaction de la documentation technique associée (SRS, SDD, SSTP).
-    info:
       - role: Consultant Ingénieur Logiciel
         time: 2015 - 2016
         company: Framatome (ex-Areva NP), La défense
