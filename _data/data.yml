@@ -117,30 +117,24 @@ experiences:
         company: ECA Robotics, Saclay
         details: |
           Assistance technique Altim SA en développement logiciel C++11 / Qt 5.10.
-Développement d'un système complet de supervision pour robot
-autonome d'intervention dans une usine d aluminium. Le système se
-compose : d'un client graphique (QT), d'un serveur, d'un éditeur de
-carte (QT) et d un logiciel de suivie de maintenance (QT).
+          Développement d'un système complet de supervision pour robot autonome d'intervention dans une usine d aluminium. Le système se compose : d'un client graphique (QT), d'un serveur, d'un éditeur de carte (QT) et d un logiciel de suivie de maintenance (QT).
           Communication en TCP et liaison avec base de données MS SQL.
+    info:
       - role: Consultant Ingénieur logiciel d'application médicale
         time: 2016 - 2017
         company: General Electric Healthcare, Buc
         details: |
-          Assistance technique d'Alten en développement logiciel C++ sur des applications de
-mammographie (biopsie 2D et 3D). Travaux (maintenance et nouvelles
-fonctionnalités) principalement réalisés sur la partie visualisation des
-images Xray et outils en QT.
+          Assistance technique d'Alten en développement logiciel C++ sur des applications de mammographie (biopsie 2D et 3D).
+          Travaux (maintenance et nouvelles fonctionnalités) principalement réalisés sur la partie visualisation des images Xray et outils en QT.
           Développement Agile/Scrum en appliquant la méthode TDD.
           Rédaction de la documentation technique associée (SRS, SDD, SSTP).
+    info:
       - role: Consultant Ingénieur Logiciel
         time: 2015 - 2016
         company: Framatome (ex-Areva NP), La défense
         details: |
-          Assistance technique d'Alten SA pour Areva NP en développement
-logiciel sur un système de monitoring d automates de sûreté nucléaire.
-          Développement en C sur bootloader (cible intel x86) puis en C++ sur
-une station de maintenance principalement développée avec le
-framework QT 4.8. 
+          Assistance technique d'Alten SA pour Areva NP en développement logiciel sur un système de monitoring d automates de sûreté nucléaire.
+          Développement en C sur bootloader (cible intel x86) puis en C++ sur une station de maintenance principalement développée avec le framework QT 4.8. 
           Rédaction de la documentation technique associée (SRS, SDD).
 
 certifications:
